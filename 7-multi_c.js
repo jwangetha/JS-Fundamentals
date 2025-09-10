@@ -11,5 +11,6 @@ if (args.length === 0 || isNaN(parseInt(args[0], 10))) {
   }
   console.log(output.trim());
 }
+}
 
 
